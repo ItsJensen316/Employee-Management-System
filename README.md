@@ -28,6 +28,20 @@ The repository contains **two distinct versions**: the unchanged 2021 source and
 
 The seven departments retained from the original project are **Transport, Office, Cleaning, Maintenance, Security, Sales, and Accounts**.
 
+## Screenshots
+
+Screenshots from the **restored 2026 application** (not the original 2021 submission):
+
+### Administrator menu
+
+![Restored application administrator menu](screenshots/admin-menu.png)
+
+### Employee card
+
+![Restored application employee card](screenshots/employee-card.png)
+
+The original 2021 interface and its screenshots remain available in the project report under [`original-2021/`](original-2021/).
+
 ## Project history
 
 | | Original project | Restored edition |
@@ -73,6 +87,9 @@ employee-management-system/
 │   └── sample_data.sql      # Fictional example employees
 ├── tests/
 │   └── test_system.py       # Automated smoke tests
+├── screenshots/
+│   ├── admin-menu.png       # Restored administrator menu
+│   └── employee-card.png    # Restored employee card
 ├── .env.example             # Database configuration template
 ├── .gitignore
 ├── requirements.txt
