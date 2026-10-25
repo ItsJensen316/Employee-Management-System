@@ -107,8 +107,6 @@ git clone https://github.com/ItsJensen316/Employee-Management-System.git
 cd Employee-Management-System
 ```
 
-> Replace the placeholder with the real GitHub repository URL after creating the repository.
-
 ### 2. Create a Python environment
 
 ```bash
